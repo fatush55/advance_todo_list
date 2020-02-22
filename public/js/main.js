@@ -29,17 +29,18 @@ $(() =>{
     //toggle status item to do list
     $('body').on('click', '.status_checkbox', function () {
         const id = $(this).data('id');
-
+        const url = window.location.href;
         $.post('/update-status', { 'id': id}, function () {
-            $(location).attr('href', '/');
+            $(location).attr('href', url);
         });
     });
 
     //sort arrow to do list
     $('body').on('click', '.arrow-sort', function ( ) {
         const action = $(this).data('action');
+        const url = window.location.href;
         $.post('/arrow-sort', { 'action': action}, function () {
-            window.location.reload();
+            $(location).attr('href', url);
         });
     });
 

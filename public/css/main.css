@@ -152,11 +152,20 @@ footer {
     margin-top: 5rem;
 }
 
+@media screen and (max-width: 1300px){
 
+    .closed-btn {
+        left: 90%;
+    }
+}
 
 @media screen and (max-width: 992px){
     .burger-button{
         display: inline-block;
+    }
+
+    .closed-btn {
+        left: 85%;
     }
 }
 
@@ -180,6 +189,10 @@ footer {
 
     .burger-button{
         top: -60px;
+    }
+
+    .closed-btn {
+        left: 80%;
     }
 
 }

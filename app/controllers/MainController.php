@@ -12,14 +12,18 @@ class MainController extends AppController
     public function indexAction()
     {
         $isAdmin = self::$isAdmin;
-        $sort = '';
         $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
         $perpage = 2;
         $count = R::count('todo_list');
         $pagination = new Pogination($page, $perpage, $count);
         $start = $pagination->getStart();
 
-        if (!empty($_SESSION['arrow_sort']))  $sort = $_SESSION['arrow_sort'];
+        if (!empty($_SESSION['arrow_sort'])){
+            $sort = $_SESSION['arrow_sort'];
+        } else {
+            $_SESSION['arrow_action'] = 'id-down';
+            $sort = ' ORDER BY `todo_list`.`id`';
+        }
 
         $items = R::getAll(
             "SELECT `todo_list`.*, `users`.`name` as `user_name`, `users`.`email`, `users`.`role` as `user_role` 

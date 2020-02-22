@@ -62,10 +62,10 @@
             <th class="table-item-hide">
                 Id
                 <i class="fas fa-sort-down arrow-sort" data-action="id-down"
-                   style="<?= $_SESSION['arrow_action'] === 'id-down' ? $arrow_action: 'color: #90a4ae' ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'id-down' ? $arrow_action : 'color: #90a4ae' ?>">
                 </i>
                 <i class="fas fa-sort-up arrow-sort" data-action="id-up"
-                   style="<?= $_SESSION['arrow_action'] === 'id-up' ? $arrow_action: 'color: #90a4ae' ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'id-up' ? $arrow_action : 'color: #90a4ae' ?>">
                 </i>
             </th>
             <th>
