@@ -78,12 +78,12 @@
                 </i>
             </th>
             <th>
-                User
-                <i class="fas fa-sort-down arrow-sort" data-action="user-down"
-                   style="<?= $_SESSION['arrow_action'] === 'user-down' ? $arrow_action: 'color: #90a4ae' ?>">
+                Role
+                <i class="fas fa-sort-down arrow-sort" data-action="role-down"
+                   style="<?= $_SESSION['arrow_action'] === 'role-down' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
-                <i class="fas fa-sort-up arrow-sort" data-action="user-up"
-                   style="<?= $_SESSION['arrow_action'] === 'user-up' ? $arrow_action: 'color: #90a4ae' ?>">
+                <i class="fas fa-sort-up arrow-sort" data-action="role-up"
+                   style="<?= $_SESSION['arrow_action'] === 'role-up' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
             </th>
             <th class="table-item-hide">
@@ -116,7 +116,7 @@
                 >
                     <td class="table-item-hide"><?= h($item['id']) ?></td>
                     <td><?= h($item['title']) ?></td>
-                    <td><?= h($item['user_name']) ?></td>
+                    <td><?= h($item['user_role']) ?></td>
                     <td class="table-item-hide"><?= h($item['email']) ?></td>
                     <td>
                         <a class="btn tooltipped pink darken-4" data-position="bottom"

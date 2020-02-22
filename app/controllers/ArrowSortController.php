@@ -29,13 +29,13 @@ class ArrowSortController
                 $sort = 'ORDER BY `todo_list`.`title`';
                 $_SESSION['arrow_action'] = 'title-down';
                 break;
-            case 'user-up':
-                $sort = ' ORDER BY `users`.`name` DESC';
-                $_SESSION['arrow_action'] = 'user-up';
+            case 'role-up':
+                $sort = ' ORDER BY `users`.`role` DESC';
+                $_SESSION['arrow_action'] = 'role-up';
                 break;
-            case 'user-down':
-                $sort = ' ORDER BY `users`.`name`';
-                $_SESSION['arrow_action'] = 'user-down';
+            case 'role-down':
+                $sort = ' ORDER BY `users`.`role`';
+                $_SESSION['arrow_action'] = 'role-down';
                 break;
             case 'email-up':
                 $sort = ' ORDER BY `users`.`email` DESC';

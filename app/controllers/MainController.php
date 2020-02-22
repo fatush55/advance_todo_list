@@ -25,7 +25,7 @@ class MainController extends AppController
             "SELECT `todo_list`.*, `users`.`name` as `user_name`, `users`.`email`, `users`.`role` as `user_role` 
                 FROM `todo_list`
                 JOIN `users` ON `todo_list`.`user_id` = `users`.`id`
-               {$sort}
+              {$sort}
                LIMIT {$start}, {$perpage}"
         );
 
