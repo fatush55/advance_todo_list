@@ -31,7 +31,7 @@ class Model
     public function save($table, $valid = true)
     {
         if ($valid){
-            $tbl = \R::dispense($table);
+                $tbl = \R::dispense($table);
         } else {
             $tbl = \R::xdispense($table);
         }

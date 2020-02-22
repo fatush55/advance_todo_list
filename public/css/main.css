@@ -24,6 +24,9 @@ nav {
 /**************************************************************************************************************
 *************************************** To_do list ************************************************************
 ***************************************************************************************************************/
+.materialize-textarea{
+    padding: 0;
+}
 
 textarea.materialize-textarea:focus:not([readonly]),
 input[type=text]:focus:not(.browser-default).validate {
@@ -120,10 +123,63 @@ input[type=password]:focus:not(.browser-default).validate + label{
     cursor: pointer;
 }
 
+.burger-button{
+    display: none;
+    position: relative;
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    top: -70px;
+    left: 85%;
+}
+
+.burger-button-icon{
+    position: relative;
+    top: -6%;
+    left: -15%;
+}
+
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    line-height: 60px;
+}
+
+
 /**************************************************************************************************************
 *************************************** Footer ****************************************************************
 ***************************************************************************************************************/
 
 footer {
     margin-top: 5rem;
+}
+
+
+
+@media screen and (max-width: 992px){
+    .burger-button{
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 600px){
+
+    .table-todo-list th{
+        font-size: 10px;
+        padding: 0;
+    }
+    .arrow-sort{
+        font-size: 10px;
+    }
+
+    .table-item-hide{
+        display: none;
+    }
+
+    .btn, .btn-large, .btn-small, .btn-floating, .btn-large, .btn-small, .btn-flat {
+        font-size: 10px;
+    }
+
+    .burger-button{
+        top: -60px;
+    }
+
 }

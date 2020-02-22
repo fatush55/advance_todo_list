@@ -47,8 +47,8 @@
             <div class="row">
                 <div class="input-field col s12">
                     <button class="btn waves-effect waves-light add-button pink darken-4" type="submit">
-                        sing up
-                        <i class="material-icons right">person_pin</i>
+                        Log in
+                            <i class="material-icons right">account_box</i>
                     </button>
                 </div>
             </div>

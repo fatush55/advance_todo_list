@@ -22,7 +22,8 @@ class CreateController extends AppController
                 $create->load($date);
 
                 if (empty($_SESSION['user'])){
-                    $create->attrebutes['user_id'] = 1;
+                    $stub_user = R::findOne('users', 'role = ?', ['guest']);
+                    $create->attrebutes['user_id'] = $stub_user['id'];
                 } else {
                     $create->attrebutes['user_id'] = $_SESSION['user']['id'];
                 }
@@ -33,5 +34,4 @@ class CreateController extends AppController
         }
         redirect('/');
     }
-
 }

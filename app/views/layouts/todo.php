@@ -18,7 +18,7 @@
 
 <nav>
     <div class="nav-wrapper pink darken-4 body-nav">
-        <a href="/" class="brand-logo">ToDo List</a>
+        <a href="/" class="brand-logo"> <i class="material-icons">assignment_turned_in</i>ToDo List</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
             <?php if (!empty($_SESSION['user'])): ?>
 
@@ -31,10 +31,26 @@
                 <li><a href="/user/singup">Sing Up</a></li>
 
             <?php endif; ?>
-
-
         </ul>
     </div>
+
+    <a class='dropdown-trigger btn burger-button' href='#' data-target='dropdown1'>
+        <i class="material-icons burger-button-icon">dehaze</i>
+    </a>
+
+    <ul id='dropdown1' class='dropdown-content'>
+
+
+        <?php if (!empty($_SESSION['user'])): ?>
+
+            <li><a href="/user/logout"><i class="material-icons">reply</i>Log Out</a></li>
+
+        <?php else: ?>
+            <li><a href="/user/login"><i class="material-icons">account_box</i>Log In</a></li>
+            <li><a href="/user/singup"><i class="material-icons">person_add</i>Sing Up</a></li>
+        <?php endif; ?>
+    </ul>
+
 </nav>
 
 

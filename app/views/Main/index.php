@@ -34,7 +34,7 @@
                 <div class="input-field col s12">
                     <textarea id="textarea1" class="materialize-textarea"
                               name="content"><?php if (!empty($_SESSION['remember']['content'])) echo h($_SESSION['remember']['content']) ?></textarea>
-                    <label for="textarea1">Create Todo</label>
+                    <label for="textarea1">Content Todo</label>
                 </div>
                 <div class="input-field col s12">
                     <button class="btn waves-effect waves-light add-button pink darken-4" type="submit">
@@ -56,10 +56,10 @@
     $arrow_action = 'color: #d50000; font-size: 20px';
     ?>
 
-    <table class="striped centered">
+    <table class="striped centered table-todo-list">
         <thead>
         <tr>
-            <th>
+            <th class="table-item-hide">
                 Id
                 <i class="fas fa-sort-down arrow-sort" data-action="id-down"
                    style="<?php if ($_SESSION['arrow_action'] === 'id-down') echo $arrow_action ?>">
@@ -78,7 +78,7 @@
                 </i>
             </th>
             <th>
-                User Name
+                User
                 <i class="fas fa-sort-down arrow-sort" data-action="user-down"
                    style="<?php if ($_SESSION['arrow_action'] === 'user-down') echo $arrow_action ?>">
                 </i>
@@ -86,7 +86,7 @@
                    style="<?php if ($_SESSION['arrow_action'] === 'user-up') echo $arrow_action ?>">
                 </i>
             </th>
-            <th>
+            <th class="table-item-hide">
                 Email
                 <i class="fas fa-sort-down arrow-sort" data-action="email-down"
                    style="<?php if ($_SESSION['arrow_action'] === 'email-down') echo $arrow_action ?>">
@@ -114,10 +114,10 @@
                         class="<?= $status ? 'teal darken-2' : '' ?>"
                         style="<?= $status ? 'color: white' : '' ?>"
                 >
-                    <td><?= h($item['id']) ?></td>
+                    <td class="table-item-hide"><?= h($item['id']) ?></td>
                     <td><?= h($item['title']) ?></td>
                     <td><?= h($item['user_name']) ?></td>
-                    <td><?= h($item['email']) ?></td>
+                    <td class="table-item-hide"><?= h($item['email']) ?></td>
                     <td>
                         <a class="btn tooltipped pink darken-4" data-position="bottom"
                            data-tooltip="<?= h($item['content']) ?>"
@@ -143,11 +143,13 @@
                         <?php endif; ?>
 
                     </td>
-                    <td>
-                        <a href="/edit?id=<?= $item['id'] ?>"
-                           class="btn-floating btn-large waves-effect waves-light pink darken-4"><i
-                                    class="material-icons">edit</i></a>
-                    </td>
+                    <?php if ($isAdmin): ?>
+                        <td>
+                            <a href="/edit?id=<?= $item['id'] ?>"
+                               class="btn-floating btn-large waves-effect waves-light pink darken-4"><i
+                                        class="material-icons">edit</i></a>
+                        </td>
+                    <?php endif; ?>
                 </tr>
             <?php endforeach; ?>
 

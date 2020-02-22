@@ -21,7 +21,7 @@ class UserController extends AppController
             $user = new User();
             $user->load($data);
 
-            if (!$user->validate($data) || !$user->checkUnique()) {
+            if (!$user->validate($data) || !$user->checkUnique() || !$user->checkAdmin()) {
                 $user->getError();
                 redirect();
             } else {

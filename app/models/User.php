@@ -25,7 +25,10 @@ class User extends AppModal
         ],
         'lengthMin' => [
             ['password', 6]
-        ]
+        ],
+//        'regex ' => [
+//            ['name', '/(?i)\badmin.*?(?=\W|\ |\r|\n|$)/']
+//        ]
     ];
 
     public function checkUnique()
@@ -41,17 +44,23 @@ class User extends AppModal
         return true;
     }
 
-    public function login($isAdmin = false)
+    public function checkAdmin()
+    {
+        if ($this->attrebutes['name'] === 'admin'){
+            $this->errors['unique'][] = 'Admin is a reserved name';
+            return false;
+        }
+        return true;
+    }
+
+    public function login()
     {
         $email = !empty(trim($_POST['email'])) ? trim($_POST['email']) : null;
         $password = !empty(trim($_POST['password'])) ? trim($_POST['password']) : null;
 
         if ($email && $password) {
-            if ($isAdmin) {
-                $user = \R::findOne('users', "email = ? AND status = 'admin'", [$email]);
-            } else {
-                $user = \R::findOne('users', "email = ?", [$email]);
-            }
+            $user = \R::findOne('users', "email = ?", [$email]);
+
             if ($user) {
                 if (password_verify($password, $user->password)) {
                     foreach ($user as $k => $v) {
@@ -64,5 +73,16 @@ class User extends AppModal
         return false;
     }
 
+    public function isAuto()
+    {
+        return isset($_SESSION['user']);
+    }
+
+    public function isAdmin()
+    {
+        return (isset($_SESSION['user']))
+            && $_SESSION['user']['role'] === 'admin'
+            &&  $_SESSION['user']['name'] === 'admin';
+    }
 
 }
