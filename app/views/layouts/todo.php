@@ -20,22 +20,33 @@
     <div class="nav-wrapper pink darken-4 body-nav">
         <a href="/" class="brand-logo">ToDo List</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a href="sass.html">Log In</a></li>
-            <li><a href="badges.html">Sing In</a></li>
-            <li><a href="collapsible.html">Log Out</a></li>
+            <?php if (!empty($_SESSION['user'])): ?>
+
+                <li><span class="nav_user_name"><?= $_SESSION['user']['name'] ?></span></li>
+                <li><a href="/user/logout">Log Out</a></li>
+
+            <?php else: ?>
+
+                <li><a href="/user/login">Log In</a></li>
+                <li><a href="/user/singup">Sing Up</a></li>
+
+            <?php endif; ?>
+
+
         </ul>
     </div>
 </nav>
 
 
-<?= $content?>
+<?= $content ?>
 
 <footer class="page-footer pink darken-4">
     <div class="container">
         <div class="row">
             <div class="col l6 s12">
                 <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer
+                    content.</p>
             </div>
             <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
@@ -57,9 +68,9 @@
 </footer>
 
 <script
-    src="https://code.jquery.com/jquery-3.4.1.min.js"
-    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-    crossorigin="anonymous">
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous">
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 <script src="/js/main.js"></script>

@@ -2492,3 +2492,331 @@
         Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
          
 <===========================================>
+[2020-02-22 03:37:22] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:37:32] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:37:54] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:39:23] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:40:25] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:42:06] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:42:55] => 
+        Type:  | Text: Method | app\controllers\UserController :: logoutAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 45
+         
+<===========================================>
+[2020-02-22 03:54:55] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:06:12] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:06:33] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:06:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 04:06:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 04:18:49] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:49:47] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 35
+         
+<===========================================>
+[2020-02-22 04:50:52] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 35
+         
+<===========================================>
+[2020-02-22 04:51:42] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 35
+         
+<===========================================>
+[2020-02-22 04:52:02] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 35
+         
+<===========================================>
+[2020-02-22 04:52:17] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 35
+         
+<===========================================>
+[2020-02-22 04:52:29] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 35
+         
+<===========================================>
+[2020-02-22 04:53:39] => 
+        Type: Exception | Text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'todo.user' doesn't exist | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 04:54:08] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:54:15] => 
+        Type: Exception | Text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'todo.user' doesn't exist | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 04:54:52] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:55:43] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:55:45] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:55:46] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:55:46] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:55:51] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:01] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:02] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:03] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:03] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:57:06] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\User\singup.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:09] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/User/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 04:57:12] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:58] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:58] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:57:59] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:03] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:06] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:25] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:26] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:58:27] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:27] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:58:27] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:27] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:58:27] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:27] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:58:28] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:58:31] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:59:03] => 
+        Type: E_NOTICE | Text: Undefined variable: _SESSION | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 65
+         
+<===========================================>
+[2020-02-22 04:59:04] => 
+        Type: E_NOTICE | Text: Undefined variable: _SESSION | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 65
+         
+<===========================================>
+[2020-02-22 04:59:05] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:59:08] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:59:08] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:59:10] => 
+        Type: E_NOTICE | Text: Undefined variable: _SESSION | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 65
+         
+<===========================================>
+[2020-02-22 04:59:11] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 04:59:22] => 
+        Type: E_NOTICE | Text: Undefined variable: _SESSION | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 65
+         
+<===========================================>
+[2020-02-22 04:59:32] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 04:59:49] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 19
+         
+<===========================================>
+[2020-02-22 05:03:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:03:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:13:12] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:13:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:13:17] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:13:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:13:21] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:13:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:16:15] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/User/login.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 05:21:51] => 
+        Type: Exception | Text: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'afromipa55@gmail.com' for key 'email' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 05:23:01] => 
+        Type: E_NOTICE | Text: Undefined index: login | File: C:\OSPanel\domains\ToDoList.log\app\models\User.php  | Lime: 36
+         
+<===========================================>
+[2020-02-22 05:24:44] => 
+        Type:  | Text: Method | app\controllers\UserController :: logoutAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 45
+         
+<===========================================>
+[2020-02-22 05:24:50] => 
+        Type:  | Text: Method | app\controllers\UserController :: logoutAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 45
+         
+<===========================================>
+[2020-02-22 05:34:58] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com = 'afromipa55@gmail.com' LIMIT 1   -- keep-cache' at line 1 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 05:35:46] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com = 'afromipa55@gmail.com' LIMIT 1   -- keep-cache' at line 1 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 05:35:47] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com = 'afromipa55@gmail.com' LIMIT 1   -- keep-cache' at line 1 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 05:36:04] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '@gmail.com = 'afromipa55@gmail.com' LIMIT 1   -- keep-cache' at line 1 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 05:42:23] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:42:25] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:42:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:42:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 05:42:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>

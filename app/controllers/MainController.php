@@ -10,6 +10,8 @@ class MainController extends AppController
 {
     public function indexAction()
     {
+//        debug($_SESSION);
+
         $sort = '';
         if (!empty($_SESSION['arrow_sort']))  $sort = $_SESSION['arrow_sort'];
 

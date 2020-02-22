@@ -1,16 +1,24 @@
 /**************************************************************************************************************
 *************************************** Header ****************************************************************
 ***************************************************************************************************************/
-nav{
-    margin-bottom: 5rem;
+
+nav {
+    margin-bottom: 3rem;
 }
-.body-nav{
+
+.body-nav {
     padding-left: 3rem;
     padding-right: 3rem;
 }
 
-.add-button{
+.add-button {
     margin-top: 0.7rem;
+}
+
+.nav_user_name {
+
+    margin-right: 30px;
+    border-bottom: 1px dashed white;
 }
 
 /**************************************************************************************************************
@@ -18,61 +26,83 @@ nav{
 ***************************************************************************************************************/
 
 textarea.materialize-textarea:focus:not([readonly]),
-input[type=text]:focus:not(.browser-default).validate{
+input[type=text]:focus:not(.browser-default).validate {
     border-bottom: 1px solid #880e4f;
     -webkit-box-shadow: 0 1px 0 0 #880e4f;
     box-shadow: 0 1px 0 0 #880e4f;
 }
 
-input.valid[type=text]:not(.browser-default){
+input.valid[type=text]:not(.browser-default) {
     border-bottom: #9e9e9e;
     -webkit-box-shadow: 0 1px 0 0 #9e9e9e;
     box-shadow: 0 1px 0 0 #9e9e9e;
 
 }
 
-textarea.materialize-textarea:focus:not([readonly])+label,
-input[type=text]:focus:not(.browser-default).validate+label
-{
+textarea.materialize-textarea:focus:not([readonly]) + label,
+input[type=text]:focus:not(.browser-default).validate + label {
     color: #880e4f;
 }
 
-.table-items{
+.table-items {
     margin: 5rem;
 }
 
-.dis_box_item{
+.dis_box_item {
     margin-left: 1rem;
 }
 
-[type="checkbox"]:checked+span:not(.lever):before{
+[type="checkbox"]:checked + span:not(.lever):before {
     border-right: 2px solid #880e4f;
     border-bottom: 2px solid #880e4f;
 }
 
-[type="checkbox"][disabled='disabled']:checked+span:not(.lever):before{
+[type="checkbox"][disabled='disabled']:checked + span:not(.lever):before {
     border-right: 2px solid black;
     border-bottom: 2px solid black;
 }
 
-.content-item{
+.content-item {
     display: block;
     width: 300px;
     height: 100px;
     overflow: scroll;
 }
 
+/**************************************************************************************************************
+********************************************* User ************************************************************
+***************************************************************************************************************/
+
+input[type=email]:focus:not(.browser-default).validate,
+input[type=password]:focus:not(.browser-default).validate {
+    border-bottom: 1px solid #880e4f;
+    -webkit-box-shadow: 0 1px 0 0 #880e4f;
+    box-shadow: 0 1px 0 0 #880e4f;
+}
+
+input.valid[type=email]:not(.browser-default),
+input.valid[type=password]:not(.browser-default){
+    border-bottom: #9e9e9e;
+    -webkit-box-shadow: 0 1px 0 0 #9e9e9e;
+    box-shadow: 0 1px 0 0 #9e9e9e;
+
+}
+
+input[type=email]:focus:not(.browser-default).validate + label,
+input[type=password]:focus:not(.browser-default).validate + label{
+    color: #880e4f;
+}
 
 /**************************************************************************************************************
 *************************************** fragments *************************************************************
 ***************************************************************************************************************/
 
-.alert{
+.alert {
     position: relative;
     display: none;
 }
 
-.closed-btn{
+.closed-btn {
     position: absolute;
     left: 93%;
     top: 0.5rem;
@@ -80,24 +110,20 @@ input[type=text]:focus:not(.browser-default).validate+label
     cursor: pointer;
 }
 
-
-.alert *{
+.alert * {
 
     padding: 3px;
     color: white;
 }
 
-
-.arrow-sort{
+.arrow-sort {
     cursor: pointer;
 }
-
-
-
 
 /**************************************************************************************************************
 *************************************** Footer ****************************************************************
 ***************************************************************************************************************/
-footer{
-    margin-top: 10rem;
+
+footer {
+    margin-top: 5rem;
 }
