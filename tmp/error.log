@@ -1,0 +1,2494 @@
+[2020-02-19 18:39:23] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 18:40:31] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 18:45:14] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 18:45:14] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-19 18:45:18] => 
+        Type:  | Text: Controller | app\controllers\AsdController | not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-19 18:45:23] => 
+        Type:  | Text: Controller | app\controllers\AsdasdasdwdqwdController | not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-19 18:46:08] => 
+        Type:  | Text: Controller | app\controllers\AsdasdasdwdqwdController | not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-19 18:46:13] => 
+        Type:  | Text: Controller | app\controllers\AsdasdasdwdqwdController | not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-19 18:46:18] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 18:46:19] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 19:21:20] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 19:21:25] => 
+        Type:  | Text: Controller | app\controllers\AsdasdasdwdqwdController | not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-19 19:21:26] => 
+        Type:  | Text: Controller | app\controllers\AsdController | not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-19 19:21:28] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 19:21:50] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-19 19:21:51] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 19:21:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-19 19:21:56] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 19:21:57] => 
+        Type: E_NOTICE | Text: Undefined variable: lastName | File: C:\OSPanel\domains\exchanged.loc\app\views\Main\index.php  | Lime: 1
+         
+<===========================================>
+[2020-02-19 19:23:51] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-19 19:24:37] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-21 09:32:32] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\exchanged.loc\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-21 13:27:03] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\exchanged\core\Router.php  | Lime: 49
+         
+<===========================================>
+[2020-02-21 13:50:55] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/layouts/todo.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 39
+         
+<===========================================>
+[2020-02-21 15:12:48] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:12:56] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:25:07] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:28:11] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:28:17] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:29:23] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:33:26] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:34:23] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:34:43] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:41:48] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:42:46] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:43:25] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:45:24] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:46:40] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 15:47:48] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:13:17] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:15:54] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:17:56] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:29:06] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:30:57] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:31:06] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:36:55] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:41:49] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:42:22] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 16:50:41] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:00:02] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:00:55] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:02:53] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:06:19] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:14:45] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:14:48] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:14:50] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:14:50] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:14:51] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:15:23] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:15:49] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:34:35] => 
+        Type:  | Text: Controller | app\controllers\EtitController | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 17:43:20] => 
+        Type:  | Text: Controller | app\controllers\EtitController | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 17:57:17] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:57:38] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 17:58:56] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:00:09] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:00:35] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:09:41] => 
+        Type:  | Text: Controller | app\controllers\CreateController | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 18:16:36] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:18:42] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:18:46] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:18:47] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:19:17] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:19:25] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:27:11] => 
+        Type: E_NOTICE | Text: Use of undefined constant CONFIG - assumed 'CONFIG' | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Db.php  | Lime: 14
+         
+<===========================================>
+[2020-02-21 18:28:30] => 
+        Type: E_NOTICE | Text: Use of undefined constant CONFIG - assumed 'CONFIG' | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Db.php  | Lime: 14
+         
+<===========================================>
+[2020-02-21 18:28:41] => 
+        Type: E_NOTICE | Text: Use of undefined constant CONFIG - assumed 'CONFIG' | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Db.php  | Lime: 14
+         
+<===========================================>
+[2020-02-21 18:28:43] => 
+        Type: E_NOTICE | Text: Use of undefined constant CONFIG - assumed 'CONFIG' | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Db.php  | Lime: 14
+         
+<===========================================>
+[2020-02-21 18:29:33] => 
+        Type: E_WARNING | Text: is_file() expects parameter 1 to be a valid path, array given | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Db.php  | Lime: 15
+         
+<===========================================>
+[2020-02-21 18:29:46] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:29:54] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:30:14] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:30:18] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/Create/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 18:32:42] => 
+        Type: Exception | Text: Invalid type: todo_list | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php  | Lime: 77
+         
+<===========================================>
+[2020-02-21 18:34:50] => 
+        Type: Exception | Text: Invalid type: todo_list | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php  | Lime: 77
+         
+<===========================================>
+[2020-02-21 18:35:24] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:50:00] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:52:33] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:52:44] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:54:37] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:54:50] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:55:29] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 18:57:13] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:03:22] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:03:59] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:04:30] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:04:34] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:04] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:06] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:06] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:15] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:15] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:21] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:21] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:05:31] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:13:03] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:14:37] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:15:18] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:41:48] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:42:20] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:44:31] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:44:49] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:47:20] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 19:58:36] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:01:35] => 
+        Type: Exception | Text: Class 'todo\basic\Validator' not found | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\Model.php  | Lime: 55
+         
+<===========================================>
+[2020-02-21 20:04:32] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:05:41] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:14:26] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:15:02] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:20:22] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:20:28] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:21:59] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:22:08] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:22:21] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:46:34] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:46:43] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:48:15] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 12
+         
+<===========================================>
+[2020-02-21 20:48:58] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 955
+         
+<===========================================>
+[2020-02-21 20:49:33] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 955
+         
+<===========================================>
+[2020-02-21 20:50:20] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-21 20:50:24] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 12
+         
+<===========================================>
+[2020-02-21 20:50:37] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 955
+         
+<===========================================>
+[2020-02-21 20:51:27] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 941
+         
+<===========================================>
+[2020-02-21 20:51:28] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 941
+         
+<===========================================>
+[2020-02-21 20:51:28] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 941
+         
+<===========================================>
+[2020-02-21 20:51:29] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 941
+         
+<===========================================>
+[2020-02-21 20:51:29] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 20:56:56] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 955
+         
+<===========================================>
+[2020-02-21 20:56:57] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 955
+         
+<===========================================>
+[2020-02-21 20:56:59] => 
+        Type: Exception | Text: Call to a member function find() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 955
+         
+<===========================================>
+[2020-02-21 21:09:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 21:12:12] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`status`, `users`.`name`, `users`.`email`
+                 FROM `todo_list`
+ ' at line 1 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 21:20:14] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '//                JOIN `users` ON `todo_list`.`user_id` = `users`.`id`' at line 3 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 21:29:00] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 21:46:20] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 21:57:46] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:01:16] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:01:28] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:03:36] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:03:45] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:03:59] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:05:26] => 
+        Type: E_NOTICE | Text: Undefined index: status | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 85
+         
+<===========================================>
+[2020-02-21 22:05:46] => 
+        Type: E_NOTICE | Text: Undefined index: status | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 85
+         
+<===========================================>
+[2020-02-21 22:10:10] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:14:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:21:13] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:25:20] => 
+        Type: E_NOTICE | Text: Undefined index: update_admin | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 75
+         
+<===========================================>
+[2020-02-21 22:25:34] => 
+        Type: E_NOTICE | Text: Undefined index: update_admin | File: C:\OSPanel\domains\ToDoList.log\app\views\Main\index.php  | Lime: 75
+         
+<===========================================>
+[2020-02-21 22:33:13] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:50:06] => 
+        Type: Exception | Text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'todo.user' doesn't exist | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:29] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:30] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:31] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:48] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:49] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:51] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:50:51] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:51:18] => 
+        Type: Exception | Text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list' | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-21 22:58:27] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-21 22:58:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 52
+         
+<===========================================>
+[2020-02-21 22:59:22] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 52
+         
+<===========================================>
+[2020-02-21 23:00:18] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-21 23:00:27] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-21 23:14:28] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-21 23:25:55] => 
+        Type:  | Text: Method | app\controllers\UpdateStatusController :: indexAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 23:25:56] => 
+        Type:  | Text: Method | app\controllers\UpdateStatusController :: indexAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 23:28:05] => 
+        Type:  | Text: Method | app\controllers\UpdateStatusController :: indexAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 23:28:16] => 
+        Type:  | Text: Method | app\controllers\UpdateStatusController :: indexAction | not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 48
+         
+<===========================================>
+[2020-02-21 23:28:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:47] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:49] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:49] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-21 23:28:55] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:56] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:28:59] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:29:02] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:29:02] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:29:23] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:29:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:29:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:29:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:30:14] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:30:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:33:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:33:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:33:32] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:33:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:33:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:33:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:34:55] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:34:57] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:34:59] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:35:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:38:42] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\ToDoList.log\app\controllers\UpdateStatusController.php  | Lime: 12
+         
+<===========================================>
+[2020-02-21 23:39:10] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\ToDoList.log\app\controllers\UpdateStatusController.php  | Lime: 12
+         
+<===========================================>
+[2020-02-21 23:40:57] => 
+        Type: Exception | Text: Class 'R' not found | File: C:\OSPanel\domains\ToDoList.log\app\controllers\UpdateStatusController.php  | Lime: 12
+         
+<===========================================>
+[2020-02-21 23:41:57] => 
+        Type: Exception | Text: Call to a member function load() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 712
+         
+<===========================================>
+[2020-02-21 23:42:55] => 
+        Type: Exception | Text: Call to a member function load() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 712
+         
+<===========================================>
+[2020-02-21 23:43:12] => 
+        Type: Exception | Text: Call to a member function load() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 712
+         
+<===========================================>
+[2020-02-21 23:43:23] => 
+        Type: Exception | Text: Call to a member function load() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 712
+         
+<===========================================>
+[2020-02-21 23:43:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:43:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:43:53] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:44:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:45:11] => 
+        Type: Exception | Text: Call to a member function load() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 712
+         
+<===========================================>
+[2020-02-21 23:47:14] => 
+        Type: Exception | Text: Call to a member function findOne() on null | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php  | Lime: 989
+         
+<===========================================>
+[2020-02-21 23:48:06] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:48:10] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:49:03] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:49:04] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:49:05] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:49:06] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:49:36] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:49:49] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:50:04] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:50:29] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:51:05] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:54:03] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:55:32] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:55:49] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:57:55] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:58:08] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:58:09] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:58:09] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/UpdateStatus/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-21 23:58:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:58:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:59:02] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-21 23:59:20] => 
+        Type: Exception | Text: Call to undefined method app\controllers\UpdateStatusController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 46
+         
+<===========================================>
+[2020-02-22 00:07:00] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 00:07:01] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 00:27:24] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 00:34:45] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 00:38:53] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 00:52:03] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 00:55:10] => 
+        Type: E_NOTICE | Text: Undefined index: id | File: C:\OSPanel\domains\ToDoList.log\app\controllers\UpdateStatusController.php  | Lime: 14
+         
+<===========================================>
+[2020-02-22 00:55:14] => 
+        Type: E_NOTICE | Text: Undefined index: id | File: C:\OSPanel\domains\ToDoList.log\app\controllers\UpdateStatusController.php  | Lime: 14
+         
+<===========================================>
+[2020-02-22 01:07:37] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:13:30] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:13:44] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:13:45] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:14:10] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:14:11] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:14:12] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:14:13] => 
+        Type: E_NOTICE | Text: Undefined index: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 01:15:24] => 
+        Type: E_NOTICE | Text: Undefined variable: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 18
+         
+<===========================================>
+[2020-02-22 01:15:25] => 
+        Type: E_NOTICE | Text: Undefined variable: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 18
+         
+<===========================================>
+[2020-02-22 01:15:25] => 
+        Type: E_NOTICE | Text: Undefined variable: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 18
+         
+<===========================================>
+[2020-02-22 01:15:25] => 
+        Type: E_NOTICE | Text: Undefined variable: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 18
+         
+<===========================================>
+[2020-02-22 01:15:25] => 
+        Type: E_NOTICE | Text: Undefined variable: action | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 18
+         
+<===========================================>
+[2020-02-22 01:23:59] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:25:19] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:26:43] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:26:44] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:26:48] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:26:49] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:26:49] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:26:49] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:26:54] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:27:04] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:27:07] => 
+        Type: E_NOTICE | Text: Undefined variable: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 54
+         
+<===========================================>
+[2020-02-22 01:31:59] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:32:50] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:36:37] => 
+        Type: E_NOTICE | Text: Array to string conversion | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 81
+         
+<===========================================>
+[2020-02-22 01:44:32] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:45] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:49] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:44:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:49:44] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:49:47] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:49:49] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:49:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:49:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:50:52] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:50:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:50:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:50:56] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:50:57] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:50:57] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:51:57] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:51:59] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:01] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:52:02] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:03] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:04] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:04] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:52:57] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:52:58] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:12] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:13] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:18] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:53:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:54:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:54:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:54:32] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:54:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:54:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:54:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:40] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:41] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:42] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:56:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:44] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:56:58] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:02] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 01:57:04] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:04] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:05] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:05] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:30] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:57:52] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:13] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:14] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:21] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:23] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 01:58:23] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:06:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:06:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:06:30] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:06:32] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:07:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:07:17] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:07:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:07:20] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:07:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:07:59] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:02] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:03] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:06] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:07] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:11] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:25] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:26] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:08:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:07] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:08] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:11] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:09:12] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:12] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:13] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:14] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:15] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:15] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:16] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:16] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:16] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:09:23] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:26] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:26] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:41] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:41] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:09:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:11:35] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:11:37] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:12:09] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:12:11] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:12:12] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:12:14] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:12:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:14:39] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DEC' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:17:47] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DEC' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:30] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:32] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:32] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:32] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:33] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:33] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:33] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:33] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:34] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:35] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:19:47] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:19:59] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DEC' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:20:03] => 
+        Type: Exception | Text: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DEC' at line 4 | File: C:\OSPanel\domains\ToDoList.log\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php  | Lime: 194
+         
+<===========================================>
+[2020-02-22 02:26:22] => 
+        Type: E_NOTICE | Text: Undefined index: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 02:26:38] => 
+        Type: E_NOTICE | Text: Undefined index: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 13
+         
+<===========================================>
+[2020-02-22 02:27:32] => 
+        Type: E_NOTICE | Text: Undefined index: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 14
+         
+<===========================================>
+[2020-02-22 02:27:34] => 
+        Type: E_NOTICE | Text: Undefined index: sort | File: C:\OSPanel\domains\ToDoList.log\app\controllers\MainController.php  | Lime: 14
+         
+<===========================================>
+[2020-02-22 02:27:34] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:27:59] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:06] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:08] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:11] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:12] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:14] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:21] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:25] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:26] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:27] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:29] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:30] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:30] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:35] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:36] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:36] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:37] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:40] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:41] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:45] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:52] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:55] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:56] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:28:57] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:17] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:20] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:21] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:23] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:33] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:33:35] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:37] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:33:40] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:36:34] => 
+        Type: E_NOTICE | Text: Accessing static property todo\Registry::$properties as non static | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Registry.php  | Lime: 15
+         
+<===========================================>
+[2020-02-22 02:37:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:37:17] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:37:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:37:20] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:38:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:38:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:38:56] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:38:58] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:06] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:06] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:08] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:39:09] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:02] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:03] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:03] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:05] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:06] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:07] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:08] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:08] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:09] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:10] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:41:45] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:36] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:44] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:44] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:42:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:44:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:44:28] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:44:30] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:44:35] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:44:36] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:48:22] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:24] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:25] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:25] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:26] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:26] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:27] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:27] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:29] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:48:31] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:32] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:48:44] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:48] => 
+        Type: Exception | Text: syntax error, unexpected '{', expecting identifier (T_STRING) or namespace (T_NAMESPACE) or \\ (T_NS_SEPARATOR) | File: C:\OSPanel\domains\ToDoList.log\app\controllers\ArrowSortController.php  | Lime: 10
+         
+<===========================================>
+[2020-02-22 02:48:49] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:49:07] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:49:08] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:49:11] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:49:13] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:49:15] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:49:16] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:49:18] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:49:19] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:49:24] => 
+        Type:  | Text: View | C:\OSPanel\domains\ToDoList.log/app/views/ArrowSort/index.php | dot fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\basic\View.php  | Lime: 31
+         
+<===========================================>
+[2020-02-22 02:49:24] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:49:31] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:49:32] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:49:32] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:49:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:37] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:40] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:41] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:42] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:45] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:45] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:47] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:53:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:54:52] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:57:14] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 02:57:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:16] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:17] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:18] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:19] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:20] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:57:22] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:33] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:34] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:35] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:36] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:38] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:39] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:43] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:44] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:45] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:46] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:47] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:48] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:50] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:51] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:52] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:53] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:55] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:56] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:56] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:58:58] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:59:00] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 02:59:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:00:21] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:00:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:00:24] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:00:25] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:04:45] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>
+[2020-02-22 03:04:54] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:04:55] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:04:57] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:04:58] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:04:59] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:05:01] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:05:14] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:05:15] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:05:17] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-22 03:05:20] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
