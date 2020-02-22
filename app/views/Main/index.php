@@ -53,7 +53,7 @@
 <section>
 
     <?php
-    $arrow_action = 'color: #d50000; font-size: 20px';
+    $arrow_action = 'color: #880e4f; font-size: 20px';
     ?>
 
     <table class="striped centered table-todo-list">
@@ -62,37 +62,37 @@
             <th class="table-item-hide">
                 Id
                 <i class="fas fa-sort-down arrow-sort" data-action="id-down"
-                   style="<?php if ($_SESSION['arrow_action'] === 'id-down') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'id-down' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
                 <i class="fas fa-sort-up arrow-sort" data-action="id-up"
-                   style="<?php if ($_SESSION['arrow_action'] === 'id-up') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'id-up' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
             </th>
             <th>
                 Title
                 <i class="fas fa-sort-down arrow-sort" data-action="title-down"
-                   style="<?php if ($_SESSION['arrow_action'] === 'title-down') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'title-down' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
                 <i class="fas fa-sort-up arrow-sort" data-action="title-up"
-                   style="<?php if ($_SESSION['arrow_action'] === 'title-up') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'title-up' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
             </th>
             <th>
                 User
                 <i class="fas fa-sort-down arrow-sort" data-action="user-down"
-                   style="<?php if ($_SESSION['arrow_action'] === 'user-down') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'user-down' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
                 <i class="fas fa-sort-up arrow-sort" data-action="user-up"
-                   style="<?php if ($_SESSION['arrow_action'] === 'user-up') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'user-up' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
             </th>
             <th class="table-item-hide">
                 Email
                 <i class="fas fa-sort-down arrow-sort" data-action="email-down"
-                   style="<?php if ($_SESSION['arrow_action'] === 'email-down') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'email-down' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
                 <i class="fas fa-sort-up arrow-sort" data-action="email-up"
-                   style="<?php if ($_SESSION['arrow_action'] === 'email-up') echo $arrow_action ?>">
+                   style="<?= $_SESSION['arrow_action'] === 'email-up' ? $arrow_action: 'color: #90a4ae' ?>">
                 </i>
             </th>
             <th>Content</th>
@@ -157,6 +157,12 @@
 
         </tbody>
     </table>
+
+    <div class="row" style="margin-top: 2rem">
+        <div class="center-align">
+            <?= $pagination ?>
+        </div>
+    </div>
 
 
 </section>

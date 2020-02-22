@@ -39,7 +39,7 @@ $(() =>{
     $('body').on('click', '.arrow-sort', function ( ) {
         const action = $(this).data('action');
         $.post('/arrow-sort', { 'action': action}, function () {
-            $(location).attr('href', '/');
+            window.location.reload();
         });
     });
 
