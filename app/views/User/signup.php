@@ -22,13 +22,12 @@
         <?php if (!empty($_SESSION['success'])) unset($_SESSION['success']) ?>
     <?php endif; ?>
 
-
     <div>
         <h4 class="center-align" style="color: #880e4f">Register</h4>
     </div>
 
     <div class="row">
-        <form class="col s8 offset-s2" method="post" action="/user/singup">
+        <form class="col s8 offset-s2" method="post" action="/user/signup">
 
             <div class="row">
                 <div class="input-field col s12">
@@ -53,7 +52,7 @@
             <div class="row">
                 <div class="input-field col s12">
                     <button class="btn waves-effect waves-light add-button pink darken-4" type="submit">
-                        sing up
+                        sign up
                         <i class="material-icons right">person_add</i>
                     </button>
                 </div>

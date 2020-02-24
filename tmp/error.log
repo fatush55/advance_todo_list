@@ -4364,3 +4364,11 @@
         Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
          
 <===========================================>
+[2020-02-23 00:46:03] => 
+        Type: Exception | Text: Call to undefined method app\controllers\ArrowSortController::getView() | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 43
+         
+<===========================================>
+[2020-02-24 03:31:39] => 
+        Type:  | Text: Page not fount | File: C:\OSPanel\domains\ToDoList.log\vendor\todo\core\Router.php  | Lime: 51
+         
+<===========================================>

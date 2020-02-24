@@ -31,7 +31,7 @@
             <?php else: ?>
 
                 <li><a href="/user/login">Log In</a></li>
-                <li><a href="/user/singup">Sing Up</a></li>
+                <li><a href="/user/signup">Sign Up</a></li>
 
             <?php endif; ?>
         </ul>
@@ -50,7 +50,7 @@
 
         <?php else: ?>
             <li><a href="/user/login"><i class="material-icons">account_box</i>Log In</a></li>
-            <li><a href="/user/singup"><i class="material-icons">person_add</i>Sing Up</a></li>
+            <li><a href="/user/signup"><i class="material-icons">person_add</i>Sign Up</a></li>
         <?php endif; ?>
     </ul>
 

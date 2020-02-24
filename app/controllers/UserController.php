@@ -14,7 +14,7 @@ class UserController extends AppController
 
     }
 
-    public function singupAction()
+    public function signupAction()
     {
         if ($_POST) {
             $data = $_POST;
